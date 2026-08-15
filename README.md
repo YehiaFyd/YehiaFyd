@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm a **Full-Stack Engineer and AI Developer** completing my **Master's degree with an AI focus** at Lebanese University CCNE Department. I build end-to-end web and AI-integrated systems — from designing APIs and database schemas to shipping working products.
+I'm a **Full-Stack Engineer and AI Developer** completing my **Master's degree with an AI focus** at Lebanese University CCNE Department. I build end-to-end web and AI-integrated systems, from designing APIs and database schemas to shipping working products.
 
 I run **TECHORIZON**, my independent software venture delivering web and ERP solutions for individuals and SMBs, and recently completed an internship at **Aspire GDC**, working on backend and AI integration for an AI Project Management Hub.
 
